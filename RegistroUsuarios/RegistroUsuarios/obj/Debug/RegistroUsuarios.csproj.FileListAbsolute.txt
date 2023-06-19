@@ -1,0 +1,12 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\bin\Debug\RegistroUsuarios.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\bin\Debug\RegistroUsuarios.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\bin\Debug\RegistroUsuarios.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.FormInicio.resources
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.Properties.Resources.resources
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.csproj.GenerateResource.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RegistroUsuarios\RegistroUsuarios\obj\Debug\RegistroUsuarios.FormRegistroUsuario.resources

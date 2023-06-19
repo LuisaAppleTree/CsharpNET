@@ -1,0 +1,27 @@
+﻿<Window x:Class="ConexionGestionPedidos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConexionGestionPedidos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Activated="Window_Activated" >
+    <Grid>
+        <Label Content="Clientes" HorizontalAlignment="Left" Margin="82,60,0,0" VerticalAlignment="Top" FontSize="22" RenderTransformOrigin="-0.196,0.568"/>
+        <ListBox Name="listaClientes" HorizontalAlignment="Left" Height="197" Width="181" Margin="35,119,0,118" MouseDoubleClick="listaClientes_MouseDoubleClick" />
+
+        <Label Content="Pedidos" HorizontalAlignment="Left" Margin="307,60,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <ListBox Name="listaPedidosCliente" HorizontalAlignment="Left" Height="197" Width="200" Margin="250,119,0,118"/>
+
+        <ListBox Name="listaTodosPedidos" HorizontalAlignment="Left" Height="197" Width="300" Margin="480,119,0,118"/>
+
+        <Button Content="Borrar" HorizontalAlignment="Left" Margin="480,84,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+
+        <Button Content="Insertar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="18" Margin="35,330,0,0" Click="Button_Click_1"/>
+        <Button Content="Borrar" HorizontalAlignment="Left" VerticalAlignment= "Top" Margin="141,332,0,0" Click="Button_Click_2" Height="16" Width="75"/>
+        <TextBox Name="insertarCliente" HorizontalAlignment="Left" Height="51" Margin="35,355,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185"/>
+
+        <Button Content="Actualizar Cliente" HorizontalAlignment="Left" VerticalAlignment= "Top" Margin="307,339,0,0" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

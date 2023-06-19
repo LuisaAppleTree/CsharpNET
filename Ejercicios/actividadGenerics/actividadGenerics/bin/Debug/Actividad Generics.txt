@@ -1,0 +1,95 @@
+¡Claro! Aquí tienes una actividad para practicar el uso de Generics en C#:
+
+Actividad: Crear una clase genérica para almacenar una lista de elementos y realizar operaciones básicas.
+
+    Define una clase genérica llamada ListaGenerica<T>.
+    Dentro de la clase, declara una lista de tipo T para almacenar los elementos.
+    Implementa un constructor sin parámetros que inicialice la lista.
+    Implementa un método público llamado Agregar que reciba un elemento de tipo T y lo agregue a la lista.
+    Implementa un método público llamado Obtener que reciba un índice entero y devuelva el elemento de la lista en esa posición.
+    Implementa un método público llamado Contar que devuelva la cantidad de elementos en la lista.
+    Implementa un método público llamado Vaciar que elimine todos los elementos de la lista.
+    Prueba tu clase ListaGenerica<T> creando instancias para diferentes tipos de elementos (por ejemplo, enteros, cadenas, objetos personalizados) y realiza operaciones de agregar, obtener, contar y vaciar.
+
+Aquí tienes un ejemplo de cómo podrías utilizar la clase ListaGenerica<T>:
+
+csharp
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Lista de enteros
+        ListaGenerica<int> listaEnteros = new ListaGenerica<int>();
+        listaEnteros.Agregar(10);
+        listaEnteros.Agregar(20);
+        listaEnteros.Agregar(30);
+        Console.WriteLine("Elementos en la lista de enteros: " + listaEnteros.Contar());
+        Console.WriteLine("Primer elemento: " + listaEnteros.Obtener(0));
+
+        // Lista de cadenas
+        ListaGenerica<string> listaCadenas = new ListaGenerica<string>();
+        listaCadenas.Agregar("Hola");
+        listaCadenas.Agregar("Mundo");
+        Console.WriteLine("Elementos en la lista de cadenas: " + listaCadenas.Contar());
+        Console.WriteLine("Segundo elemento: " + listaCadenas.Obtener(1));
+
+        // Lista de objetos personalizados
+        ListaGenerica<Persona> listaPersonas = new ListaGenerica<Persona>();
+        listaPersonas.Agregar(new Persona("Juan", 25));
+        listaPersonas.Agregar(new Persona("María", 30));
+        Console.WriteLine("Elementos en la lista de personas: " + listaPersonas.Contar());
+        Console.WriteLine("Edad de la primera persona: " + listaPersonas.Obtener(0).Edad);
+
+        listaEnteros.Vaciar();
+        listaCadenas.Vaciar();
+        listaPersonas.Vaciar();
+        Console.WriteLine("Elementos en la lista de enteros después de vaciar: " + listaEnteros.Contar());
+        Console.WriteLine("Elementos en la lista de cadenas después de vaciar: " + listaCadenas.Contar());
+        Console.WriteLine("Elementos en la lista de personas después de vaciar: " + listaPersonas.Contar());
+    }
+}
+
+class Persona
+{
+    public string Nombre { get; set; }
+    public int Edad { get; set; }
+
+    public Persona(string nombre, int edad)
+    {
+        Nombre = nombre;
+        Edad = edad;
+    }
+}
+
+class ListaGenerica<T>
+{
+    private List<T> elementos;
+
+    public ListaGenerica()
+    {
+        elementos = new List<T>();
+    }
+
+    public void Agregar(T elemento)
+    {
+        elementos.Add(elemento);
+    }
+
+    public T Obtener(int indice)
+    {
+        return elementos[indice];
+    }
+
+    public int Contar()
+    {
+        return elementos.Count;
+    }
+
+    public void Vaciar()
+    {
+        elementos.Clear();
+    }
+}
+
+En esta actividad, crearás una clase genérica ListaGenerica<T> que puede almacenar y realizar operaciones básicas en una lista de elementos. Luego, probarás la clase utilizando diferentes tipos de elementos y realizarás operaciones como agregar, obtener, contar y vaciar la lista. Esto te ayudará a practicar el uso de Generics y familiarizarte con su flexibilidad y reutilización de código.

@@ -1,0 +1,16 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\bin\Debug\ListBox_Practica.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\bin\Debug\ListBox_Practica.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\bin\Debug\ListBox_Practica.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\MainWindow.g.cs
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\App.g.cs
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica_MarkupCompile.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica_MarkupCompile.lref
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\MainWindow.baml
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica.g.resources
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica.Properties.Resources.resources
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica.csproj.GenerateResource.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\ListBox_Practica\ListBox_Practica\obj\Debug\ListBox_Practica.pdb

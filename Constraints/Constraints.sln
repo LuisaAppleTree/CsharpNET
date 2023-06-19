@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constraints", "Constraints\Constraints.csproj", "{FCB221A4-FEE5-47E8-BA2F-CED564107A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB221A4-FEE5-47E8-BA2F-CED564107A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB221A4-FEE5-47E8-BA2F-CED564107A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB221A4-FEE5-47E8-BA2F-CED564107A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB221A4-FEE5-47E8-BA2F-CED564107A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {582DCE75-DC72-4BDA-A0E9-12807CE140E5}
+	EndGlobalSection
+EndGlobal

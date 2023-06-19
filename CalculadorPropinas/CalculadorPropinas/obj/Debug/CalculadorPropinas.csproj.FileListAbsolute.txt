@@ -1,0 +1,11 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\bin\Debug\CalculadorPropinas.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\bin\Debug\CalculadorPropinas.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\bin\Debug\CalculadorPropinas.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\obj\Debug\CalculadorPropinas.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\obj\Debug\CalculadorPropinas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\obj\Debug\CalculadorPropinas.FormCalculadoraPropinas.resources
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\obj\Debug\CalculadorPropinas.Properties.Resources.resources
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\obj\Debug\CalculadorPropinas.csproj.GenerateResource.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\obj\Debug\CalculadorPropinas.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\obj\Debug\CalculadorPropinas.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\CalculadorPropinas\CalculadorPropinas\obj\Debug\CalculadorPropinas.pdb

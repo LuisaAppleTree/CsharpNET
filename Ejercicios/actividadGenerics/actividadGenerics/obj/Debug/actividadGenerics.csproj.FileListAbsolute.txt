@@ -1,0 +1,8 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\actividadGenerics\actividadGenerics\obj\Debug\actividadGenerics.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\actividadGenerics\actividadGenerics\obj\Debug\actividadGenerics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\actividadGenerics\actividadGenerics\obj\Debug\actividadGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\actividadGenerics\actividadGenerics\bin\Debug\actividadGenerics.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\actividadGenerics\actividadGenerics\bin\Debug\actividadGenerics.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\actividadGenerics\actividadGenerics\bin\Debug\actividadGenerics.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\actividadGenerics\actividadGenerics\obj\Debug\actividadGenerics.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\actividadGenerics\actividadGenerics\obj\Debug\actividadGenerics.pdb

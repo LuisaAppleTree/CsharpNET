@@ -1,0 +1,53 @@
+Actividad: Gestión de contactos
+
+Crea un programa en C# que permita gestionar una lista de contactos utilizando un Dictionary. El programa debe tener las siguientes funcionalidades:
+
+    Permitir al usuario agregar un nuevo contacto. El usuario debe ingresar un nombre y un número de teléfono para el contacto.
+
+    Permitir al usuario buscar un contacto por nombre. El programa debe mostrar el número de teléfono del contacto encontrado.
+
+    Mostrar todos los contactos existentes en el Dictionary. El programa debe mostrar el nombre y el número de teléfono de cada contacto.
+
+    Permitir al usuario eliminar un contacto. El usuario debe ingresar el nombre del contacto a eliminar.
+
+    Salir del programa.
+
+Puedes utilizar un menú con opciones numéricas para que el usuario seleccione la acción deseada. Utiliza un Dictionary para almacenar los contactos, donde la clave será el nombre del contacto (string) y el valor será el número de teléfono (string).
+
+Ejemplo de interacción con el programa:
+
+--- Gestión de contactos ---
+
+1. Agregar contacto
+2. Buscar contacto
+3. Mostrar contactos
+4. Eliminar contacto
+5. Salir
+
+Ingrese el número de la acción deseada: 1
+
+Ingrese el nombre del contacto: Juan
+Ingrese el número de teléfono: 1234567890
+
+Contacto agregado correctamente.
+
+Ingrese el número de la acción deseada: 3
+
+Contactos existentes:
+- Juan: 1234567890
+
+Ingrese el número de la acción deseada: 2
+
+Ingrese el nombre del contacto a buscar: Juan
+
+Número de teléfono: 1234567890
+
+Ingrese el número de la acción deseada: 4
+
+Ingrese el nombre del contacto a eliminar: Juan
+
+Contacto eliminado correctamente.
+
+Ingrese el número de la acción deseada: 5
+
+¡Hasta luego!

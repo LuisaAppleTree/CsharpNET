@@ -1,0 +1,16 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\generic\generic\bin\Debug\generic.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\generic\generic\bin\Debug\generic.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\generic\generic\bin\Debug\generic.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\generic\generic\obj\Debug\generic.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\generic\generic\obj\Debug\generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\generic\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\generic\generic\obj\Debug\generic.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\generic\generic\obj\Debug\generic.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\generic\generic\bin\Debug\generic.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\generic\generic\bin\Debug\generic.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\generic\generic\bin\Debug\generic.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\generic\generic\obj\Debug\generic.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\generic\generic\obj\Debug\generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\generic\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\generic\generic\obj\Debug\generic.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\generic\generic\obj\Debug\generic.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadorPropinas", "CalculadorPropinas\CalculadorPropinas.csproj", "{A7A0AADB-00A9-49A9-A8F4-265B517B5E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{CAB7F763-F16B-4B5B-8EFA-93428905B559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A0AADB-00A9-49A9-A8F4-265B517B5E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A0AADB-00A9-49A9-A8F4-265B517B5E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A0AADB-00A9-49A9-A8F4-265B517B5E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A0AADB-00A9-49A9-A8F4-265B517B5E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB7F763-F16B-4B5B-8EFA-93428905B559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB7F763-F16B-4B5B-8EFA-93428905B559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB7F763-F16B-4B5B-8EFA-93428905B559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB7F763-F16B-4B5B-8EFA-93428905B559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16F606FB-3916-4EBC-891C-708300D53640}
+	EndGlobalSection
+EndGlobal

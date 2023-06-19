@@ -1,0 +1,8 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\gestionContactos\gestionContactos\obj\Debug\gestionContactos.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\gestionContactos\gestionContactos\obj\Debug\gestionContactos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\gestionContactos\gestionContactos\obj\Debug\gestionContactos.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\gestionContactos\gestionContactos\bin\Debug\gestionContactos.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\gestionContactos\gestionContactos\bin\Debug\gestionContactos.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\gestionContactos\gestionContactos\bin\Debug\gestionContactos.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\gestionContactos\gestionContactos\obj\Debug\gestionContactos.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Capacitación\Ejercicios\gestionContactos\gestionContactos\obj\Debug\gestionContactos.pdb

@@ -1,0 +1,16 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\bin\Debug\RadioButtonPractica.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\bin\Debug\RadioButtonPractica.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\bin\Debug\RadioButtonPractica.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\MainWindow.g.cs
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\App.g.cs
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica_MarkupCompile.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica_MarkupCompile.lref
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\MainWindow.baml
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica.g.resources
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica.Properties.Resources.resources
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica.csproj.GenerateResource.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\RadioButtonPractica\RadioButtonPractica\obj\Debug\RadioButtonPractica.pdb

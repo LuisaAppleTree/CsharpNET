@@ -1,0 +1,8 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Constraints\Constraints\bin\Debug\Constraints.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Constraints\Constraints\bin\Debug\Constraints.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Constraints\Constraints\bin\Debug\Constraints.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Constraints\Constraints\obj\Debug\Constraints.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Constraints\Constraints\obj\Debug\Constraints.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Constraints\Constraints\obj\Debug\Constraints.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Constraints\Constraints\obj\Debug\Constraints.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\Constraints\Constraints\obj\Debug\Constraints.pdb

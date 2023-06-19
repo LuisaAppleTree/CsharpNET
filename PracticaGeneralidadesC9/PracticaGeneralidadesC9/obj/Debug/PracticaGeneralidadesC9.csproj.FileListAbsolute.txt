@@ -1,0 +1,8 @@
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\PracticaGeneralidadesC9\PracticaGeneralidadesC9\bin\Debug\PracticaGeneralidadesC9.exe.config
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\PracticaGeneralidadesC9\PracticaGeneralidadesC9\bin\Debug\PracticaGeneralidadesC9.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\PracticaGeneralidadesC9\PracticaGeneralidadesC9\bin\Debug\PracticaGeneralidadesC9.pdb
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\PracticaGeneralidadesC9\PracticaGeneralidadesC9\obj\Debug\PracticaGeneralidadesC9.csproj.AssemblyReference.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\PracticaGeneralidadesC9\PracticaGeneralidadesC9\obj\Debug\PracticaGeneralidadesC9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\PracticaGeneralidadesC9\PracticaGeneralidadesC9\obj\Debug\PracticaGeneralidadesC9.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\PracticaGeneralidadesC9\PracticaGeneralidadesC9\obj\Debug\PracticaGeneralidadesC9.exe
+C:\Users\Luisa\OneDrive\Documentos\Okhosting\Capacitacion C#\PracticaGeneralidadesC9\PracticaGeneralidadesC9\obj\Debug\PracticaGeneralidadesC9.pdb
